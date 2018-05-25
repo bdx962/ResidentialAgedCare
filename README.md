@@ -1,24 +1,24 @@
 ###### The Australian population is living longer due to better living conditions and medical breakthroughs. The Australian bureau of statistics predicted that the Australian population will live past 80 years old. Increased pressure in life hinders family for being physically responsible for their aged. Hence the growth of residential aged care facilities. 
 ###### This report will be looking at the following: 
-  •	Is residential aged care a good business model?
-  •	Emotional aspects towards aged care
-  •	Government funding influencing factors
+  ###### •	Is residential aged care a good business model?
+  ###### •	Emotional aspects towards aged care
+  ###### •	Government funding influencing factors
 
 ###### Reports from the Department of Health – Ageing and Aged Care have stated that the number of current places in a residential aged care will not be able to support the growing population. Therefore, a new residential aged care facility is a good business model in Sydney for the future. With that in mind, the goal is to identify factors impacting a residential aged face facility. 
 
 ###### A residential aged care is defined as a special-purpose facility which provides accommodation and other types of support, including assistance with day-to-day living, intensive forms of care, and assistance towards independent living, to frail and aged residents. A residential place is a bed or place where an aged person is accommodated. 
 
 ###### For this analysis, a few assumptions were made as follows:
-    •	Future residential beds are based on the level of occupancy against the population of people who are 65 years old and over
-    •	All factors related to the care of the elderly are sufficient and remains constant. An example is the staff to patient ratios. 
-    •	The location of the residential aged care facility may not be the location where a person has lived most of their life. An example would be a person entering residential aged care facility that is located where his/ her children are currently residing. 
-    •	The government funding provided for each residential aged care facility in 2017 does not require adjustment
-    •	The estimated population will have a high fertility rate ie: A_65
+###### •	Future residential beds are based on the level of occupancy against the population of people who are 65 years old and over
+###### •	All factors related to the care of the elderly are sufficient and remains constant. An example is the staff to patient ratios. 
+###### •	The location of the residential aged care facility may not be the location where a person has lived most of their life. An example would be a person entering residential aged care facility that is located where his/ her children are currently residing. 
+###### •	The government funding provided for each residential aged care facility in 2017 does not require adjustment
+###### •	The estimated population will have a high fertility rate ie: A_65
 
 ###### For relevancy of this analysis, the focus will be on the following:
-    •	State of NSW
-    •	Sydney suburbs
-    •	Population 65 years old and above
+###### •	State of NSW
+###### •	Sydney suburbs
+###### •	Population 65 years old and above
 
 ###### The limitation of the dataset used is the non-granularity of it. The dataset was obtained from Australian Bureau of Statistics and Department of Health – Ageing and Aged Care where it has been summarized to a reporting level. It is not known what assumptions have already been made and what were the original outliners. 
 
